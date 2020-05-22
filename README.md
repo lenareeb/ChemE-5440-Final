@@ -1,7 +1,7 @@
 # ChemE-5440-Final
 
 ## 1. 
-The majority of Problem 1 was completed by hand and is contained in [Problem-1.pdf](https://github.com/lenareeb/ChemE-5440-Final/blob/master/Final/Problem-1.pdf). The phase portrait was constructed using
+The majority of Problem 1 was completed by hand and is contained in [Problem-1.pdf](https://github.com/lenareeb/ChemE-5440-Final/blob/master/Final/Problem-1.pdf). The phase portrait was constructed by including
 [ToggleMono_F1.jl](https://github.com/lenareeb/ChemE-5440-Final/blob/master/Final/ToggleMono_F1.jl) which utilizes [PhasePortraitV2_F1.jl](https://github.com/lenareeb/ChemE-5440-Final/blob/master/Final/PhasePortraitV2_F1.jl). The phase portrait produced can be viewed in [phase-portrait.png](https://github.com/lenareeb/ChemE-5440-Final/blob/master/Final/phase-portrait.png).
 
 ## 2. 
